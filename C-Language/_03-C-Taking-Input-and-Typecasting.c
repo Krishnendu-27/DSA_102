@@ -81,5 +81,18 @@ printf("%d\n" , e);
 int i = 2*6/2;
 // printf("%d" , i); // here first do the 6*2 mens 12 then its divided by 2 so 6  
 
+//                                                                        charcter data type
+char h = '1'; // what ever writen between '' called a character its cannot be a sentece a word or anything only without spaece. its stroe value in ASCII
+
+printf("%c\n" , h);
+printf("%d\n" , h); // implicit type casting
+// fun fact : a = 97 , A = 65 , O = 48 in ASCII
+
+int m = (int) h; // explicit type casting
+printf("%d" , m);
+
+int n = 0;
+printf("%c" , n);
+
   return 0;
 } 
