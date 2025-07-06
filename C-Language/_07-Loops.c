@@ -25,5 +25,14 @@ int main() {
     printf("%d " , i);
  }
  
+// while loops
+int x = 0;
+while ( x<10)
+{
+  printf("halo\n");
+  x++;
+}
+// if we just print a decalre but non asign variable its print a garbage value 
   return 0;
+  
 }
