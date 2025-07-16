@@ -4,39 +4,40 @@ _Checkout Homework Questions From [HERE](https://docs.google.com/spreadsheets/d/
 
 ### 📘 Coder Army C++ DSA Playlist Progress Tracker — **Basics (L01–L30)**
 
-| Lectures                                          | Lecture Codes | Links | Homework | Completed (Y/N) | Date Completed | Notes |
-| ------------------------------------------------- | ------------- | ----- | -------- | --------------- | -------------- | ----- |
-| Introduction To Programming for Beginners         | L01           |       |          |                 |                |       |
-| Introduction to FlowCharts and PseudoCode         | L02           |       |          |                 |                |       |
-| Start C++ from Zero and Write Your First Program  | L03           |       |          |                 |                |       |
-| If Else Statement & Loop in C++                   | L04           |       |          |                 |                |       |
-| For Loop Advanced + Prime, Factorial, Fibonacci   | L05           |       |          |                 |                |       |
-| Pattern Problems Part-1                           | L06           |       |          |                 |                |       |
-| Pattern Problems Part-2                           | L07           |       |          |                 |                |       |
-| Hard Pattern Print Problems                       | L08           |       |          |                 |                |       |
-| Top 5 Advanced Pattern Problems                   | L09           |       |          |                 |                |       |
-| Operators in C++                                  | L10           |       |          |                 |                |       |
-| While, Do-While, Switch, Break, Continue          | L11           |       |          |                 |                |       |
-| Number Conversion (Binary, Decimal, Octal)        | L12           |       |          |                 |                |       |
-| First Program on LeetCode                         | L13           |       |          |                 |                |       |
-| Functions in C++ (Value vs Reference)             | L14           |       |          |                 |                |       |
-| Series Problem Solving                            | L15           |       |          |                 |                |       |
-| Introduction to Arrays in C++                     | L16           |       |          |                 |                |       |
-| Master Arrays by Solving Problems                 | L17           |       |          |                 |                |       |
-| Time and Space Complexity                         | L18           |       |          |                 |                |       |
-| Selection Sort                                    | L19           |       |          |                 |                |       |
-| Bubble Sort                                       | L20           |       |          |                 |                |       |
-| Insertion Sort                                    | L21           |       |          |                 |                |       |
-| Binary Search Theory and Code                     | L22           |       |          |                 |                |       |
-| Binary Search Interview Problems                  | L23           |       |          |                 |                |       |
-| Rotated Array, Mountain Array, Kth Missing        | L24           |       |          |                 |                |       |
-| Book Allocation, Painter Partition, Ship Packages | L25           |       |          |                 |                |       |
-| Binary Search Hard (Aggressive Cows, KOKO)        | L26           |       |          |                 |                |       |
-| STL and Vectors in C++                            | L27           |       |          |                 |                |       |
-| Two Pointer Techniques                            | L28           |       |          |                 |                |       |
-| Kadane’s, Prefix & Suffix, 2 Equal Sums           | L29           |       |          |                 |                |       |
-| Trapping Rain Water, 3SUM, 4SUM                   | L30           |       |          |                 |                |       |
-|                                                   |               |       |          |                 |                |       |
+| Lectures                                          | Lecture Codes | Links                                                     | Homework | Completed (Y/N) | Date Completed |
+| ------------------------------------------------- | ------------- | --------------------------------------------------------- | -------- | --------------- | -------------- |
+| Introduction To Programming for Beginners         | L01           |                                                           |          |                 |                |
+| Introduction to FlowCharts and PseudoCode         | L02           |                                                           |          |                 |                |
+| Start C++ from Zero and Write Your First Program  | L03           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L3 | DONE     | YES             | 2025, July 14  |
+| If Else Statement & Loop in C++                   | L04           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L4 | DONE     | YES             | 2025, July 15  |
+| For Loop Advanced + Prime, Factorial, Fibonacci   | L05           |                                                           |          |                 |                |
+| Pattern Problems Part-1                           | L06           |                                                           |          |                 |                |
+| Pattern Problems Part-2                           | L07           |                                                           |          |                 |                |
+| Hard Pattern Print Problems                       | L08           |                                                           |          |                 |                |
+| Top 5 Advanced Pattern Problems                   | L09           |                                                           |          |                 |                |
+| Operators in C++                                  | L10           |                                                           |          |                 |                |
+| While, Do-While, Switch, Break, Continue          | L11           |                                                           |          |                 |                |
+| Number Conversion (Binary, Decimal, Octal)        | L12           |                                                           |          |                 |                |
+| First Program on LeetCode                         | L13           |                                                           |          |                 |                |
+| Functions in C++ (Value vs Reference)             | L14           |                                                           |          |                 |                |
+| Series Problem Solving                            | L15           |                                                           |          |                 |                |
+| Introduction to Arrays in C++                     | L16           |                                                           |          |                 |                |
+| Master Arrays by Solving Problems                 | L17           |                                                           |          |                 |                |
+| Time and Space Complexity                         | L18           |                                                           |          |                 |                |
+| Selection Sort                                    | L19           |                                                           |          |                 |                |
+| Bubble Sort                                       | L20           |                                                           |          |                 |                |
+| Insertion Sort                                    | L21           |                                                           |          |                 |                |
+| Binary Search Theory and Code                     | L22           |                                                           |          |                 |                |
+| Binary Search Interview Problems                  | L23           |                                                           |          |                 |                |
+| Rotated Array, Mountain Array, Kth Missing        | L24           |                                                           |          |                 |                |
+| Book Allocation, Painter Partition, Ship Packages | L25           |                                                           |          |                 |                |
+| Binary Search Hard (Aggressive Cows, KOKO)        | L26           |                                                           |          |                 |                |
+| STL and Vectors in C++                            | L27           |                                                           |          |                 |                |
+| Two Pointer Techniques                            | L28           |                                                           |          |                 |                |
+| Kadane’s, Prefix & Suffix, 2 Equal Sums           | L29           |                                                           |          |                 |                |
+| Trapping Rain Water, 3SUM, 4SUM                   | L30           |                                                           |          |                 |                |
+|                                                   |               |                                                           |          |                 |                |
+
 
 ---
 
