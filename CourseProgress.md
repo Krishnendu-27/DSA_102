@@ -6,13 +6,13 @@ _Checkout Homework Questions From [HERE](https://docs.google.com/spreadsheets/d/
 
 | Lectures                                          | Lecture Codes | Links                                                     | Homework | Completed (Y/N) | Date Completed |
 | ------------------------------------------------- | ------------- | --------------------------------------------------------- | -------- | --------------- | -------------- |
-| Introduction To Programming for Beginners         | L01           |                                                           |          |                 |                |
+| Introduction To Programming for Beginners         | L01           |                                                           |          |                 |                
 | Introduction to FlowCharts and PseudoCode         | L02           |                                                           |          |                 |                |
 | Start C++ from Zero and Write Your First Program  | L03           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L3 | DONE     | YES             | 2025, July 14  |
 | If Else Statement & Loop in C++                   | L04           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L4 | DONE     | YES             | 2025, July 15  |
-| For Loop Advanced + Prime, Factorial, Fibonacci   | L05           |                                                           |          |                 |                |
-| Pattern Problems Part-1                           | L06           |                                                           |          |                 |                |
-| Pattern Problems Part-2                           | L07           |                                                           |          |                 |                |
+| For Loop Advanced + Prime, Factorial, Fibonacci   | L05           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L5 | DONE     | YES             | 2025, July 16  |
+| Pattern Problems Part-1                           | L06           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L6 | DONE     | YES             | 2025, July 17  |
+| Pattern Problems Part-2                           | L07           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L7 | DONE     | YES             | 2025, July 17  |
 | Hard Pattern Print Problems                       | L08           |                                                           |          |                 |                |
 | Top 5 Advanced Pattern Problems                   | L09           |                                                           |          |                 |                |
 | Operators in C++                                  | L10           |                                                           |          |                 |                |
