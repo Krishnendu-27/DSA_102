@@ -13,8 +13,8 @@ _Checkout Homework Questions From [HERE](https://docs.google.com/spreadsheets/d/
 | For Loop Advanced + Prime, Factorial, Fibonacci   | L05           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L5 | DONE     | YES             | 2025, July 16  |
 | Pattern Problems Part-1                           | L06           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L6 | DONE     | YES             | 2025, July 17  |
 | Pattern Problems Part-2                           | L07           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L7 | DONE     | YES             | 2025, July 17  |
-| Hard Pattern Print Problems                       | L08           |                                                           |          |                 |                |
-| Top 5 Advanced Pattern Problems                   | L09           |                                                           |          |                 |                |
+| Hard Pattern Print Problems                       | L08           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L8 | DONE     | YES             | 2025, July 18  |
+| Top 5 Advanced Pattern Problems                   | L09           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L9 | DONE     | YES             | 2025, July 18  |
 | Operators in C++                                  | L10           |                                                           |          |                 |                |
 | While, Do-While, Switch, Break, Continue          | L11           |                                                           |          |                 |                |
 | Number Conversion (Binary, Decimal, Octal)        | L12           |                                                           |          |                 |                |
