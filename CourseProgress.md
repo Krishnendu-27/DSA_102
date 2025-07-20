@@ -15,8 +15,8 @@ _Checkout Homework Questions From [HERE](https://docs.google.com/spreadsheets/d/
 | Pattern Problems Part-2                           | L07           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L7 | DONE     | YES             | 2025, July 17  |
 | Hard Pattern Print Problems                       | L08           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L8 | DONE     | YES             | 2025, July 18  |
 | Top 5 Advanced Pattern Problems                   | L09           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L9 | DONE     | YES             | 2025, July 18  |
-| Operators in C++                                  | L10           |                                                           |          |                 |                |
-| While, Do-While, Switch, Break, Continue          | L11           |                                                           |          |                 |                |
+| Operators in C++                                  | L10           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L10 | DONE     | YES             | 2025, July 20  |
+| While, Do-While, Switch, Break, Continue          | L11           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L11 | DONE     | YES             | 2025, July 20  |
 | Number Conversion (Binary, Decimal, Octal)        | L12           |                                                           |          |                 |                |
 | First Program on LeetCode                         | L13           |                                                           |          |                 |                |
 | Functions in C++ (Value vs Reference)             | L14           |                                                           |          |                 |                |
