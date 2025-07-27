@@ -17,9 +17,9 @@ _Checkout Homework Questions From [HERE](https://docs.google.com/spreadsheets/d/
 | Top 5 Advanced Pattern Problems                   | L09           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L9 | DONE     | YES             | 2025, July 18  |
 | Operators in C++                                  | L10           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L10 | DONE     | YES             | 2025, July 20  |
 | While, Do-While, Switch, Break, Continue          | L11           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L11 | DONE     | YES             | 2025, July 20  |
-| Number Conversion (Binary, Decimal, Octal)        | L12           |                                                           |          |                 |                |
-| First Program on LeetCode                         | L13           |                                                           |          |                 |                |
-| Functions in C++ (Value vs Reference)             | L14           |                                                           |          |                 |                |
+| Number Conversion (Binary, Decimal, Octal)        | L12           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L12 | DONE     | YES             | 2025, July 21  |
+| First Program on LeetCode                         | L13           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L13 | DONE     | YES             | 2025, July 23  |
+| Functions in C++ (Value vs Reference)             | L14           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L14 | DONE     | YES             | 2025, July 27  |
 | Series Problem Solving                            | L15           |                                                           |          |                 |                |
 | Introduction to Arrays in C++                     | L16           |                                                           |          |                 |                |
 | Master Arrays by Solving Problems                 | L17           |                                                           |          |                 |                |
