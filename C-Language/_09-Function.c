@@ -35,9 +35,35 @@ int combo(int n, int r){
         factOfNR = factOfNR*k;
     }
     
-    return factOfN/ factOfR * factOfNR;
+    return factOfN/ (factOfR * factOfNR);
 }
+// all fact function for pascale tavle
+int facttable(int n) {
+    for (int i = 0; i < n; i++) {
+        // Print leading spaces
+        for (int space = 0; space < n - i - 1; space++) {
+            printf("  ");
+        }
+
+        // Print Pascal numbers in the row
+        for (int j = 0; j <= i; j++) {
+            int result = combo(i, j);
+            printf("%4d", result);  // Fixed width for better alignment
+        }
+
+        printf("\n");
+}
+}
+//pascale table
+// int pastable(int n,int r){
+//     // need ncr
+    
+    
+// }
 int main() {
+
+    facttable(6);
+
     //   when we want to do a block of task many times in defrenet time palce we use function
     /*
     function function_name(parametar){
@@ -104,7 +130,15 @@ printf("484 is the sqrt of %d\n",val);
 // example 500 ans will be 22 becuse 22 sqare is 484
 
 int combinattion = combo(5,4);
-printf("combinattion of 5 and 4 is %d" , combinattion);
+printf("combinattion of 5 and 4 is %d\n" , combinattion);
 
+// function prototype
+// sum of 2 number
+int sum();
+int result = sum(8,6);
+printf("reesult is %d\n", result);
   return 0;
+}
+int sum(int a,int b) {
+    return a+b;
 }
