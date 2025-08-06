@@ -20,8 +20,8 @@ _Checkout Homework Questions From [HERE](https://docs.google.com/spreadsheets/d/
 | Number Conversion (Binary, Decimal, Octal)        | L12           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L12 | DONE     | YES             | 2025, July 21  |
 | First Program on LeetCode                         | L13           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L13 | DONE     | YES             | 2025, July 23  |
 | Functions in C++ (Value vs Reference)             | L14           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L14 | DONE     | YES             | 2025, July 27  |
-| Series Problem Solving                            | L15           |                                                           |          |                 |                |
-| Introduction to Arrays in C++                     | L16           |                                                           |          |                 |                |
+| Series Problem Solving                            | L15           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L15 | DONE     | YES             | 2025, August 6 |
+| Introduction to Arrays in C++                     | L16           | https://github.com/Krishnendu-27/DSA_102/tree/main/DSA/L16 | DONE     | YES             | 2025, August 6 |
 | Master Arrays by Solving Problems                 | L17           |                                                           |          |                 |                |
 | Time and Space Complexity                         | L18           |                                                           |          |                 |                |
 | Selection Sort                                    | L19           |                                                           |          |                 |                |
